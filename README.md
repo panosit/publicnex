@@ -1,4 +1,4 @@
-# PublicNext Project
+# Publicnex Project
 
 ## Overview
 This project contains two Spring Boot microservices:
